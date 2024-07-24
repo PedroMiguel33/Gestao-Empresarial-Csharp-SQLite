@@ -1,5 +1,32 @@
 # Welcome to GitHub Desktop!
+# Sistema Empresarial Com C# & SQLite
 
 This is your README. READMEs are where you can communicate what your project is and how to use it.
+Um simples projeto que entrega um sistema totalmente desenvolvido em C# usando o banco de dados SQLite Studio.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+
+## Autores
+
+- [@pedromiguel33](https://github.com/PedroMiguel33)
+
+
+## Funcionalidades
+
+- Sistema de login
+- Sistema de cadastro de empregado
+- Sistema de gestão de empregado
+- Sistema de criação de login
+- Sistema de gestão de login
+
+- **Manutenção**
+- Gerenciar banco de dados
+- Gestão de horários
+- Gestão de superiores
+- Gestão de setores
+## 
+
+## Stack utilizada
+
+**Front-end:** Guna UI2 WinForms
+
+**Back-end:** Visual Studio Pro
