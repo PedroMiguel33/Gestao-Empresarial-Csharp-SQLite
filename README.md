@@ -3,7 +3,7 @@
 Um simples projeto que entrega um sistema totalmente desenvolvido em C# usando o banco de dados SQLite Studio.
 
 
-## Autores
+## Autor
 
 - [@pedromiguel33](https://github.com/PedroMiguel33)
 
