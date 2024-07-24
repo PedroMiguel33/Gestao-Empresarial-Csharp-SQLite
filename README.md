@@ -1,7 +1,5 @@
-# Welcome to GitHub Desktop!
 # Sistema Empresarial Com C# & SQLite
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 Um simples projeto que entrega um sistema totalmente desenvolvido em C# usando o banco de dados SQLite Studio.
 
 
@@ -30,3 +28,4 @@ Um simples projeto que entrega um sistema totalmente desenvolvido em C# usando o
 **Front-end:** Guna UI2 WinForms
 
 **Back-end:** Visual Studio Pro
+
